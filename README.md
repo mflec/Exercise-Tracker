@@ -1,5 +1,4 @@
-# https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
-Exercise Tracker
+#Exercise Tracker (https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
 You can POST to /api/users with form data username to create a new user. The returned response will be an object with username and _id properties.
 
